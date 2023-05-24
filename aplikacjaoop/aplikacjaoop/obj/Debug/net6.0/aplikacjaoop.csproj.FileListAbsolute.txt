@@ -1,0 +1,15 @@
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\bin\Debug\net6.0\aplikacjaoop.exe
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\bin\Debug\net6.0\aplikacjaoop.deps.json
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\bin\Debug\net6.0\aplikacjaoop.runtimeconfig.json
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\bin\Debug\net6.0\aplikacjaoop.dll
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\bin\Debug\net6.0\aplikacjaoop.pdb
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\aplikacjaoop.csproj.AssemblyReference.cache
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\aplikacjaoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\aplikacjaoop.AssemblyInfoInputs.cache
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\aplikacjaoop.AssemblyInfo.cs
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\aplikacjaoop.csproj.CoreCompileInputs.cache
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\aplikacjaoop.dll
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\refint\aplikacjaoop.dll
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\aplikacjaoop.pdb
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\aplikacjaoop.genruntimeconfig.cache
+D:\studia\programowanie\aplikacjaoop\aplikacjaoop\obj\Debug\net6.0\ref\aplikacjaoop.dll
