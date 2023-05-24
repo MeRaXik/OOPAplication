@@ -1,0 +1,15 @@
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\bin\Debug\net6.0\aplikacjaooop.exe
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\bin\Debug\net6.0\aplikacjaooop.deps.json
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\bin\Debug\net6.0\aplikacjaooop.runtimeconfig.json
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\bin\Debug\net6.0\aplikacjaooop.dll
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\bin\Debug\net6.0\aplikacjaooop.pdb
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\aplikacjaooop.csproj.AssemblyReference.cache
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\aplikacjaooop.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\aplikacjaooop.AssemblyInfoInputs.cache
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\aplikacjaooop.AssemblyInfo.cs
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\aplikacjaooop.csproj.CoreCompileInputs.cache
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\aplikacjaooop.dll
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\refint\aplikacjaooop.dll
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\aplikacjaooop.pdb
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\aplikacjaooop.genruntimeconfig.cache
+D:\studia\programowanie\aplikacjaoopv2\aplikacjaooop\aplikacjaooop\obj\Debug\net6.0\ref\aplikacjaooop.dll
